@@ -1,5 +1,5 @@
 {
-    "name": "textcontrol/txtextcontrol-reportingcloud",
+    "name": "cyrilkioskemploi/txtextcontrol-reportingcloud",
     "description": "PHP wrapper for ReportingCloud Web API. Authored and supported by Text Control GmbH.",
     "license": "BSD-3-Clause",
     "type": "library",
